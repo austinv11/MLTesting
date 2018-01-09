@@ -1,0 +1,6 @@
+gym
+numpy
+scipy
+tensorflow
+tflearn
+h5py
